@@ -1,0 +1,16 @@
+ Address          Code                    Source
+ 0x00000000       0x20090100              addi $t1,$zero,0x0100  #t1 is a sentence n sequence
+ 0x00000004       0x200a0001              addi $t2,$zero,0x0001  #t2 is a value of the first sentence of the sequence
+ 0x00000008       0x200b0010              addi $t3,$zero,0x0010  #t3 is a sequence ratio value 
+ 0x0000000c       0x200d0001              addi $t5,$zero,0x0001  #t5 is a number(t5 = 1)
+ 0x00000010       0x012d7022              sub $t6,t1,t5
+ 0x00000014       0x01cb0019              multu $t6,$t3
+ 0x00000018       0x00002010              mfhi $a0
+ 0x0000001c       0x00002812              mflo $a1
+ 0x00000020       0x00aa7821              addu $t7,$a1,$t2
+ 0x00000024       0x01e5802b              sltu $t8,$t7,$a1
+ 0x00000028       0x00902021              addu $a0,$a0,$t8
+ 0x0000002c       0xac0f00c8              sw $t7,200($zero)
+ 0x00000030       0xac0400cc              sw $a0,204($zero)
+ 0x00000034       0x0800002c              j 0x0000002c
+

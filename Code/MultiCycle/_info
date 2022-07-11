@@ -1,0 +1,362 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_2020.4/examples
+T_opt
+!s110 1656406847
+Vjgd;zQ=Gde<7Aa3NEQ:[Z3
+04 21 4 work multi_cycle_64bit__tb fast 0
+=1-d45d646336fd-62bac33d-2dd-4f48
+Z1 o-quiet -auto_acc_if_foreign -work MultiCycle
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1656444125
+VRMF<CcXIJ:L;[`;SUkD@d1
+04 26 4 work multi_cycle_fibunatchi__tb fast 0
+=1-d45d646336fd-62bb54dc-30f-5710
+R1
+R2
+n@_opt1
+R3
+T_opt2
+!s110 1656388425
+VMJ9o@Q1:VRiHE74PdPo<^0
+04 24 4 work multi_cycle_sequence__tb fast 0
+=1-d45d646336fd-62ba7b48-2c0-43e0
+R1
+R2
+n@_opt2
+R3
+R0
+vasync_mem
+Z4 !s110 1656444122
+!i10b 1
+!s100 3e1ElZ4aohD;Lh8jldHCz0
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I>m=X0;M3HdJF9gZfQEF?@0
+Z6 dD:/University/Term 4/Computer Architecture/Lab/Lab88/Code
+Z7 w1656444116
+Z8 8D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_fibunatchi__tb.v
+Z9 FD:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_fibunatchi__tb.v
+!i122 1228
+L0 56 18
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z12 !s108 1656444122.000000
+Z13 !s107 D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_fibunatchi__tb.v|
+Z14 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_fibunatchi__tb.v|
+!i113 0
+Z15 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vmulti_cycle_64bit__tb
+R4
+!i10b 1
+!s100 U6f^Lcz4088BCS:VL;^Te3
+R5
+ITO3z^3@e=zaAOB:kN68E61
+R6
+w1656406833
+8D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_64bit__tb.v
+FD:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_64bit__tb.v
+!i122 1227
+Z16 L0 4 49
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_64bit__tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_64bit__tb.v|
+!i113 0
+R15
+R2
+vmulti_cycle_fibunatchi__tb
+R4
+!i10b 1
+!s100 [dn>:;IU[BbMTfl@:Ca[N1
+R5
+I9gKJA=XDXLd8SNaVGaXKg3
+R6
+R7
+R8
+R9
+!i122 1228
+R16
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R2
+vmulti_cycle_mips
+Z17 !s110 1656444121
+!i10b 1
+!s100 ]=[UN2Mlm5@`n`FOJSTke0
+R5
+IjUKF7;bLMP@Q1Y3:7:lWb0
+R6
+Z18 w1656329144
+Z19 8D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_mips.v
+Z20 FD:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_mips.v
+!i122 1222
+L0 19 506
+R10
+R11
+r1
+!s85 0
+31
+Z21 !s108 1656444121.000000
+Z22 !s107 D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_mips.v|
+Z23 !s90 -reportprogress|300|-work|MultiCycle|-vopt|-stats=none|D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_mips.v|
+!i113 0
+Z24 o-work MultiCycle -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vmulti_cycle_mips__tb
+R17
+!i10b 1
+!s100 eiX]1A;chTK9M2Rda6g6:0
+R5
+IBaL]S80911l2BhE[iiR?;2
+R6
+w1448555194
+8D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_mips__tb.v
+FD:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_mips__tb.v
+!i122 1225
+L0 4 63
+R10
+R11
+r1
+!s85 0
+31
+R21
+!s107 D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_mips__tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_mips__tb.v|
+!i113 0
+R15
+R2
+vmulti_cycle_mips__tb_advanced
+R17
+!i10b 1
+!s100 D==WDgQAznGB8H2IO?]J`1
+R5
+IMmVc]32`3VTz?hCSZC`8K2
+R6
+w1656083324
+8D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_mips__tb_advanced.v
+FD:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_mips__tb_advanced.v
+!i122 1224
+L0 4 50
+R10
+R11
+r1
+!s85 0
+31
+R21
+!s107 D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_mips__tb_advanced.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_mips__tb_advanced.v|
+!i113 0
+R15
+R2
+vmulti_cycle_mips__tb_basic
+R17
+!i10b 1
+!s100 UD:Ud[j^P^6H_Igc]d79]2
+R5
+IS:`H6hc2<VBhW[UH6hgSN3
+R6
+w1656327442
+8D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_mips__tb_basic.v
+FD:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_mips__tb_basic.v
+!i122 1223
+L0 4 53
+R10
+R11
+r1
+!s85 0
+31
+R21
+!s107 D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_mips__tb_basic.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_mips__tb_basic.v|
+!i113 0
+R15
+R2
+vmulti_cycle_mips__tb_my
+!s110 1656422902
+!i10b 1
+!s100 oUS_@;LzLY6ka8lVUYR<J2
+R5
+Ijj]Q6`TT728aTFJGfMlQZ2
+R6
+w1656085600
+8D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_mips__tb_my.v
+FD:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_mips__tb_my.v
+!i122 994
+L0 4 51
+R10
+R11
+r1
+!s85 0
+31
+!s108 1656422902.000000
+!s107 D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_mips__tb_my.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_mips__tb_my.v|
+!i113 0
+R15
+R2
+vmulti_cycle_sequence__tb
+R4
+!i10b 1
+!s100 WNX`gbXO5WL:K^0MZ`G>D3
+R5
+I3fH7^F[Bkh0RcaY8l6i2<2
+R6
+w1656388418
+8D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_sequence__tb.v
+FD:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_sequence__tb.v
+!i122 1226
+R16
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_sequence__tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/University/Term 4/Computer Architecture/Lab/Lab88/multi_cycle_sequence__tb.v|
+!i113 0
+R15
+R2
+vmultiplier
+!s110 1655802489
+!i10b 1
+!s100 QR?X;;;A8CgUCDO3@0QU_0
+R5
+I^H^M2MkZz]7CC4ebd0MHK0
+R6
+w1655802425
+R19
+R20
+!i122 170
+L0 529 33
+R10
+R11
+r1
+!s85 0
+31
+!s108 1655802489.000000
+R22
+R23
+!i113 0
+R24
+R2
+vmy_alu
+R17
+!i10b 1
+!s100 l`AgH6Q80BKQVnaH:f`[a1
+R5
+I?Q4>6D2=6gzT[EM_>N;l70
+R6
+R18
+R19
+R20
+!i122 1222
+L0 528 46
+R10
+R11
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R2
+vmy_multiplier
+R17
+!i10b 1
+!s100 hDB;o4Y:JB1:oLN1kzZC22
+R5
+IVFb`TLY6JNR4K<@dlNPGa2
+R6
+R18
+R19
+R20
+!i122 1222
+L0 604 38
+R10
+R11
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R2
+vmy_multiplier_signed
+R17
+!i10b 1
+!s100 @fkb1S4X4DPEcP8GB9W3?1
+R5
+IUiMlUI5na65^3:XWIWJBX0
+R6
+R18
+R19
+R20
+!i122 1222
+L0 645 51
+R10
+R11
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R2
+vreg_file
+R17
+!i10b 1
+!s100 5K2P@jPH_c0TZ>ahYeASU1
+R5
+ISe2PY:YF<10G@JD=LCOdm2
+R6
+R18
+R19
+R20
+!i122 1222
+L0 577 24
+R10
+R11
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R2
